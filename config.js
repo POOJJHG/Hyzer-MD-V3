@@ -6,7 +6,7 @@ global.prems = []
 //=============『 Info Owner 』============== //
 global.nameowner = 'OWNER IBNU'
 global.numberowner = '6281807254833'
-global.instagram = 'https://chat.whatsapp.com/J01ENpARIMs8LvwaRM9LIm'
+global.instagram = 'https://chat.whatsapp.com/BA59r608eJKHVLHi7b7MmF'
 global.github = 'https://github.com/POOJJHG/Hyzer-MD-V3'
 global.dana = '081807254833'
 global.pulsa = '081807254833'
@@ -14,8 +14,8 @@ global.gopay = '081807254833'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'IBNU-MD'
-global.gc = 'https://chat.whatsapp.com/J01ENpARIMs8LvwaRM9LIm'
-global.web = 'https://chat.whatsapp.com/J01ENpARIMs8LvwaRM9LIm' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.gc = 'https://chat.whatsapp.com/BA59r608eJKHVLHi7b7MmF'
+global.web = 'https://chat.whatsapp.com/BA59r608eJKHVLHi7b7MmF' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
