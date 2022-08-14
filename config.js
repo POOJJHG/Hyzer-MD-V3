@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
 global.owner = ['6281807254833'] 
 global.mods = [] 
-global.prems = [] 
+global.prems =  ['6287871670129'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'OWNER IBNU'
+global.nameowner = 'IBNU OFFICIAL 🅥⁩'
 global.numberowner = '6281807254833'
-global.instagram = 'https://chat.whatsapp.com/BA59r608eJKHVLHi7b7MmF'
-global.github = 'https://github.com/POOJJHG/Hyzer-MD-V3'
+global.instagram = 'https://www.instagram.com/ibnu_ramadhani.1'
+global.github = 'https://github.com/IBNU-MD/-OWNER-'
 global.dana = '081807254833'
 global.pulsa = '081807254833'
 global.gopay = '081807254833'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'IBNU-MD'
-global.gc = 'https://chat.whatsapp.com/BA59r608eJKHVLHi7b7MmF'
-global.web = 'https://chat.whatsapp.com/BA59r608eJKHVLHi7b7MmF' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.gc = 'https://chat.whatsapp.com/L6mF44apLHBKMSF8Fopfyj'
+global.web = 'https://chat.whatsapp.com/L6mF44apLHBKMSF8Fopfyj' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -42,42 +42,37 @@ global.author = '© IBNU-MD'
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
   // name: 'https://website'
-  amel: 'https://melcanz.com',
-    bx: 'https://bx-hunter.herokuapp.com',
-  dhnjing: 'https://dhnjing.xyz',
-  hardianto: 'https://hardianto-chan.herokuapp.com',
-  jonaz: 'https://jonaz-api-v2.herokuapp.com',
-  neoxr: 'https://neoxr-api.herokuapp.com',
   nrtm: 'https://nurutomo.herokuapp.com',
+  rey: 'https://server-api-rey.herokuapp.com',
   xteam: 'https://api.xteam.xyz',
-  nzcha: 'http://nzcha-apii.herokuapp.com',
-  bg: 'http://bochil.ddns.net',
-  fdci: 'https://api.fdci.se',
-  dzx: 'https://api.dhamzxploit.my.id',
-  bsbt: 'https://bsbt-api-rest.herokuapp.com',
   zahir: 'https://zahirr-web.herokuapp.com',
-  zeks: 'https://api.zeks.xyz',
-  zekais: 'http://zekais-api.herokuapp.com',
-  hardianto: 'https://hardianto-chan.herokuapp.com',
-  pencarikode: 'https://pencarikode.xyz', 
-  erdwepe: 'https://erdwpe-api.herokuapp.com',
-  lolhuman: 'https://api.lolhuman.xyz',
+  lol: 'https://api.lolhuman.xyz',
+  dhnjing: 'https://dhnjing.xyz',
+  neoxr: 'https://neoxr-api.herokuapp.com',
+  zeks: 'https://api.zeks.me',
+  pencarikode: 'https://pencarikode.xyz',
+  ana: 'https://anabotofc.herokuapp.com/',
+  amel: 'https://melcanz.com',
+  hardianto: 'https://hardianto.xyz',
+  botstyle: 'https://botstyle-api.herokuapp.com',
+  adiisus: 'https://adiixyzapi.herokuapp.com',
   LeysCoder: 'https://leyscoders-api.herokuapp.com',
-  rey: 'https://server-api-rey.herokuapp.com'
+  kanx: 'https://kannxapi.herokuapp.com/'
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://melcanz.com': 'elaina',
-  'https://server-api-rey.herokuapp.com': 'apirey',
-  'https://api.xteam.xyz': 'd37372311698ed1d',
+  'https://api.xteam.xyz': 'APIKEY',
+  'https://anabotofc.herokuapp.com/': 'APIKEY',
+  'https://api.lolhuman.xyz': 'APIKEY',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://bsbt-api-rest.herokuapp.com': 'benniismael',
-  'https://api.zeks.xyz': 'apivinz',
-  'https://hardianto-chan.herokuapp.com': 'hardianto',
-  'https://pencarikode.xyz': 'pais', 
-  'https://leyscoders-api.herokuapp.com': 'dappakntlll',
-  'https://zekais-api.herokuapp.com': 'apikeymu',
-  'https://api.lolhuman.xyz': 'Deffbotz',
+  'https://api.zeks.me': 'apivinz',
+  'https://pencarikode.xyz': 'pais',
+  'https://melcanz.com': 'APIKEY',
+  'https://neoxr-api.herokuapp.com': 'yntkts',
+  'https://server-api-rey.herokuapp.com': 'apirey',
+  'https://botstyle-api.herokuapp.com': 'APIKEY',
+  'https://hardianto.xyz': 'hardianto',
+  'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
 //=============『 RPG GAMES 』================== //
